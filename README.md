@@ -1,5 +1,5 @@
 ## Get Started
-#### `1. Download the repo:` https://gitlab.com/pjones/cority-front-end-coding-scenario.git
+#### `1. Clone or download the repo (green button)
 #### `2. npm install (npm i)`
 #### `3. npm run start`
 
