@@ -1,5 +1,5 @@
 ## Get Started
-#### `1. Clone or download the repo (green button)
+#### `1. Clone or download the repo (green button above)`
 #### `2. npm install (npm i)`
 #### `3. npm run start`
 
